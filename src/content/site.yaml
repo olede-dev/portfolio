@@ -1,18 +1,18 @@
 config:
   siteUrl: https://olede.dev
   siteName: Oleksii Dehtiarov
-  defaultTitle: Oleksii Dehtiarov | Front-end developer
+  defaultTitle: Oleksii Dehtiarov | Full stack developer
   defaultDescription: >-
-    Portfolio of Oleksii Dehtiarov — a front-end developer focused on creative,
+    Portfolio of Oleksii Dehtiarov — a full stack developer focused on creative,
     accessible, and high-quality web experiences.
   ogImagePath: /img/og-image.png
   author:
     name: Oleksii Dehtiarov
-    jobTitle: Front-end developer
+    jobTitle: Full stack developer
   keywords:
     - Oleksii Dehtiarov
     - Alex Degt
-    - front-end developer
+    - full stack developer
     - frontend developer
     - web developer
     - portfolio
