@@ -1,5 +1,5 @@
 ---
-order: 6
+order: 8
 name: Calligaris
 url: "https://calligaris.shop/"
 stack:

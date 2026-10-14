@@ -90,3 +90,27 @@ github:
   name: GitHub
   icon: /img/icons/logo-github.svg
   link: https://github.com/
+maplibre:
+  name: MapLibre GL
+  icon: /img/icons/logo-maplibre.svg
+  link: https://maplibre.org/
+chartjs:
+  name: Chart.js
+  icon: /img/icons/logo-chartjs.svg
+  link: https://www.chartjs.org/
+pinia:
+  name: Pinia
+  icon: /img/icons/logo-pinia.svg
+  link: https://pinia.vuejs.org/
+php:
+  name: PHP
+  icon: /img/icons/logo-php.svg
+  link: https://www.php.net/
+mysql:
+  name: MySQL
+  icon: /img/icons/logo-mysql.svg
+  link: https://www.mysql.com/
+redis:
+  name: Redis
+  icon: /img/icons/logo-redis.svg
+  link: https://redis.io/

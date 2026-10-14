@@ -1,5 +1,5 @@
 ---
-order: 503
+order: 505
 cardClasses: artcompass
 name: "Artcompass Club"
 status: closed

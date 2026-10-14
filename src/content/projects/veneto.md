@@ -1,5 +1,5 @@
 ---
-order: 9
+order: 11
 name: Veneto
 url: "https://veneto.ua/"
 stack:

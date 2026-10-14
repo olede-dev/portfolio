@@ -1,5 +1,5 @@
 ---
-order: 10
+order: 12
 name: "СЛОБІДСЬКИЙ КРАЙ"
 url: "https://www.slk.kh.ua/"
 stack:

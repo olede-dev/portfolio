@@ -1,5 +1,5 @@
 ---
-order: 5
+order: 7
 name: "Khudaiev Jewellery Factory"
 url: "https://khudaiev.com/uk"
 stack:

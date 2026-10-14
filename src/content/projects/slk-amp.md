@@ -1,5 +1,5 @@
 ---
-order: 15
+order: 17
 name: "СЛОБІДСЬКИЙ КРАЙ (AMP ver.)"
 url: "https://amp.slk.kh.ua/"
 stack:

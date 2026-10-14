@@ -1,5 +1,5 @@
 ---
-order: 505
+order: 507
 name: "Trace Corporative"
 logo: img/projects/trace-corp.svg
 status: closed

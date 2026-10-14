@@ -1,5 +1,5 @@
 ---
-order: 22
+order: 24
 name: "Master Step"
 url: "https://master-step.ua/"
 stack:

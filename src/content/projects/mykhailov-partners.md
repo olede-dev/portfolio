@@ -1,5 +1,5 @@
 ---
-order: 3
+order: 5
 name: "Mykhailov & Partners"
 url: "https://mykhailov.partners/"
 stack:
