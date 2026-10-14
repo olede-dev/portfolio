@@ -189,10 +189,8 @@ async function hydrateProjectSlide(slide: HTMLElement, index: number): Promise<v
 
 		try {
 			host.innerHTML = await fetchProjectSlideHtml(slug, signal);
-			// Dynamic import keeps Fancybox out of the main bundle; the chunk is
-			// shared with the idle-time loader in all-pages.ts.
-			const { bindFancybox } = await import("./fancybox");
-			bindFancybox(host);
+			// Gallery clicks are handled by the delegated on-demand loader in
+			// fancybox-loader.ts, so injected slides need no extra binding.
 			markSlideLoaded(slide);
 			loadedIndices.add(index);
 		} catch (error) {

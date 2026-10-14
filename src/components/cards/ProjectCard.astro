@@ -60,6 +60,8 @@ const revealStyle = revealDelayMs === undefined ? undefined : `--project-card-re
 									class="card__thumb aspect-[151/82]">
 									<img
 										src={thumbPath}
+										srcset={`${project.imagesPath}thumb-640.webp 640w, ${project.imagesPath}thumb-960.webp 960w`}
+										sizes="(min-width: 1024px) 540px, 100vw"
 										width="320"
 										height="240"
 										loading={eager ? "eager" : "lazy"}
