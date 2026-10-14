@@ -12,4 +12,4 @@ var e=e=>typeof e==`object`&&!!e&&e.constructor===Object&&Object.prototype.toStr
 						<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="none" viewBox="0 0 32 32">
 							<path fill="currentColor" d="m30.8 16-8.4 8.8v-5.6H1.6v-6.4h20.8V7.2l8.4 8.8Z"></path>
 						</svg>
-					`}}}}};function _t(e=document){if(ht(),e instanceof Document){$.bind(`[data-fancybox]`,gt);return}e instanceof HTMLElement&&$.bind(e,`[data-fancybox]`,gt)}async function vt(){await ht(),_t(document)}export{_t as bindFancybox,vt as initFancybox};
+					`}}}}};function _t(e=document){if(ht(),e instanceof Document){$.bind(`[data-fancybox]`,gt);return}e instanceof HTMLElement&&$.bind(e,`[data-fancybox]`,gt)}async function vt(){await ht(),_t(document)}export{vt as initFancybox};
